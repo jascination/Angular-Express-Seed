@@ -1,0 +1,24 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "*",
+    "express-error-handler": "*",
+    "express": "*",
+    "jade": "*",
+    "method-override": "*",
+    "morgan": "*"
+  },
+  "devDependencies": {
+    "bower-files": "*",
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-concat": "*",
+    "gulp-less": "*",
+    "gulp-nodemon": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*"
+  }
+}
